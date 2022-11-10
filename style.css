@@ -1,0 +1,52 @@
+.main-body{
+    background-color:#90deff;
+}
+.home-image{
+    padding-top: 3px;
+    padding-bottom: 3px;
+
+}
+
+.gear1,.keystones1,.list1{
+    padding-left: 80px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+
+    background-color:#ADD8E6;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+
+}
+.gear1,.keystones1,.split-screen1,.rgb1{
+    border: 1px solid grey;;
+
+}
+
+.split-screen1,.rgb1,.question1{
+        padding-left: 55px;
+        padding-bottom: 12px;
+
+        background-color:#ADD8E6;
+        border-top-right-radius: 20px;
+        border-bottom-right-radius: 20px;
+
+
+    }
+
+
+.left-side{
+    margin-right: 10px;
+}
+
+.right-side{
+    margin-left: 10px;
+
+}
+.here{
+    padding-left:40px;
+}
+
+.text-here{
+    color:white;
+    padding-right:30px;
+}
